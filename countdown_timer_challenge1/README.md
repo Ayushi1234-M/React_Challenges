@@ -1,5 +1,6 @@
-# React Challenges
-I am starting a git repo which includes many mini react projects.
+# Count down timer
+
+This is a count down timer that has functionalities to add a timer, reset, pause and resume. 
 
 ## Getting Started with Create React App
 
