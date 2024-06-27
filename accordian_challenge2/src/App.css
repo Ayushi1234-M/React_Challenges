@@ -1,0 +1,20 @@
+.faq {
+  margin: auto;
+  width: fit-content;
+  margin-top: 30px;
+}
+
+.question {
+  display: flex;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.answer {
+  margin-left: 15px;
+}
+
+
+.open{
+  transform: rotate(90deg);
+}
